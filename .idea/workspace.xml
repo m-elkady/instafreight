@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece04ef0-50ce-40bd-aab1-82524146f9ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="21eUMh2ME4WWCHpLWnHFVxxdQ6p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece04ef0-50ce-40bd-aab1-82524146f9ec" name="Default Changelist" comment="" />
+      <created>1638301000897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638301000897</updated>
+      <workItem from="1638301002096" duration="36149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="99" y="273" key="#SQL_Dialects" timestamp="1638301744277">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="99" y="273" key="#SQL_Dialects/0.23.1440.827@0.23.1440.827" timestamp="1638301744277" />
+    <state x="320" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638309708267">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1638309708267" />
+    <state x="408" y="198" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1638309772134">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="408" y="198" key="DUMP_DIALOG_DIMENSION_KEY/0.23.1440.827@0.23.1440.827" timestamp="1638309772134" />
+    <state width="958" height="214" key="GridCell.Tab.0.bottom" timestamp="1638358515907">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="958" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1638358515907" />
+    <state width="958" height="214" key="GridCell.Tab.0.center" timestamp="1638358515906">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="958" height="214" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1638358515906" />
+    <state width="958" height="214" key="GridCell.Tab.0.left" timestamp="1638358515905">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="958" height="214" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1638358515905" />
+    <state width="958" height="214" key="GridCell.Tab.0.right" timestamp="1638358515906">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="958" height="214" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1638358515906" />
+    <state x="440" y="169" key="NewPhpClassDialog" timestamp="1638433742895">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="440" y="169" key="NewPhpClassDialog/0.23.1440.827@0.23.1440.827" timestamp="1638433742895" />
+    <state x="541" y="367" key="NewPhpFileDialog" timestamp="1638364190095">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="541" y="367" key="NewPhpFileDialog/0.23.1440.827@0.23.1440.827" timestamp="1638364190095" />
+    <state x="229" y="75" key="SettingsEditor" timestamp="1638310766312">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1638310766312" />
+    <state x="623" y="304" width="416" height="292" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1638303875835">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="623" y="304" width="416" height="292" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.23.1440.827@0.23.1440.827" timestamp="1638303875835" />
+    <state x="614" y="331" width="337" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1638304705272">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="614" y="331" width="337" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1440.827@0.23.1440.827" timestamp="1638304705272" />
+    <state x="495" y="264" width="450" height="333" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1638304857881">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="495" y="264" width="450" height="333" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.23.1440.827@0.23.1440.827" timestamp="1638304857881" />
+    <state x="657" y="386" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1638310848161">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="657" y="386" key="com.intellij.database.run.ParametersPanel.Standalone/0.23.1440.827@0.23.1440.827" timestamp="1638310848161" />
+    <state x="272" y="177" width="675" height="650" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1638318055546">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="272" y="177" width="675" height="650" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1440.827@0.23.1440.827" timestamp="1638318055546" />
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1638395161699">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1638395161699" />
+  </component>
+</project>
