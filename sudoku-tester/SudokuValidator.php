@@ -6,13 +6,20 @@ class SudokuValidator
     public $columns = [];
     public $blocks = [];
 
+    /**
+     * SudokuValidator constructor.
+     * @param array $sudokuArr
+     */
     public function __construct($sudokuArr = [])
     {
         $this->rows = $sudokuArr;
         $this->setData();
     }
 
-    private function setData()
+    /**
+     * @return void
+     */
+    private function setData(): void
     {
         for ($row = 0; $row < 9; $row++) {
             for ($column = 0; $column < 9; $column++) {
@@ -22,12 +29,20 @@ class SudokuValidator
         }
     }
 
-    private function setColumns($row, $column)
+    /**
+     * @param int $row
+     * @param int $column
+     */
+    private function setColumns(int $row, int $column): void
     {
         $this->columns[$column][] = $this->rows[$row][$column];
     }
 
-    private function setBlocks($row, $column)
+    /**
+     * @param int $row
+     * @param int $column
+     */
+    private function setBlocks($row, $column): void
     {
         $boxRow = floor($row / 3);
         $boxCol = floor($column / 3);
@@ -35,12 +50,19 @@ class SudokuValidator
         $this->blocks[$boxIndex][] = $this->rows[$row][$column];
     }
 
-    public function validate()
+    /**
+     * @return bool
+     */
+    public function validate(): bool
     {
         return $this->check($this->rows) && $this->check($this->columns) && $this->check($this->blocks);
     }
 
-    private function check($unit)
+    /**
+     * @param array $unit
+     * @return bool
+     */
+    private function check(array $unit): bool
     {
         for ($i = 0; $i < 9; $i++) {
             sort($unit[$i]);
