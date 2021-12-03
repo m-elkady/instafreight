@@ -42,7 +42,7 @@ class SudokuValidator
      * @param int $row
      * @param int $column
      */
-    private function setBlocks($row, $column): void
+    private function setBlocks(int $row, int $column): void
     {
         $boxRow = floor($row / 3);
         $boxCol = floor($column / 3);
